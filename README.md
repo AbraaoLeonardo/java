@@ -16,3 +16,11 @@ acesse o arquivo pelo intellij e execute o programa clicando no botão que se en
 <div align="center">
 <img src="https://user-images.githubusercontent.com/101459029/197012451-489b5a34-4b0f-438e-81f0-419f4ecec8dc.png"/>
 </div>
+
+## Design patterns já implementados
+1.  Facade
+2.  Singleton
+3.  Strategy
+### Proximos a serem implementados
+4.  Fabric
+5.  Pub/Sub
