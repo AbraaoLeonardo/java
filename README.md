@@ -12,4 +12,7 @@ Design pattern é uma recomendação de como podemos solucionar alguns problemas
 ### Após isso, precisaremos baixar o código no computador.
 + git clone https://github.com/AbraaoLeonardo/java/tree/padroes_de_projetos
 acesse o arquivo pelo intellij e execute o programa clicando no botão que se encontra ao lado do public void static main.
-<img src="/home/abraao/Pictures/Screenshots/Screenshot from 2022-10-20 13-56-27.png" width="40" height="40"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101459029/197012451-489b5a34-4b0f-438e-81f0-419f4ecec8dc.png"/>
+</div>
